@@ -1,0 +1,6 @@
+HOW THE AI WEB SCRAPER WORKS:
+
+--User enters a websit URL
+--AI scrapes and extracts the text
+--AI generates a summarized version of the page
+--Results are displayed in a Web UI
