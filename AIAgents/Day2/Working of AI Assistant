@@ -1,0 +1,7 @@
+HOW THE AI ASSISTANT WORKS:
+
+--Listens to user voice input using a microphone
+--Understands and processes the query using Speech Recognition
+--Uses Ollama LLM to generate intelligent responses
+--Speaks the response back to the user using Text-to-Speech
+--Keeps running until the user says "exit" or "stop"
