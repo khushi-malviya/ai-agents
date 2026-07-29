@@ -1,0 +1,7 @@
+HOW THE AI DOCUMENT READER WORKS:
+
+--User uploads a PDF document
+--AI extracts and stores the text in FAISS
+--User can download the AI generated document summary in .txt file
+--User asks a question about the document
+--AI retrieves the most relevant info and answers the question
