@@ -46,32 +46,6 @@ python Day4/ai_document_reader.py
 
 Note: Some scripts may require API keys or extra setup (microphone access, local model files, or third-party service credentials). Check the top of each script for configuration notes.
 
-## Usage Notes
-
-- Edit scripts directly to adjust model choices, API keys, or data paths.
-- For the Streamlit UI, run:
-
-```bash
-streamlit run Day2/ai_voice_assistant_ui.py
-```
-
-- For FAISS-based examples, ensure the appropriate version of `faiss` is installed for your platform.
-
-## Contributing
-
-Contributions are welcome. Suggested workflow:
-
-1. Fork the repository
-2. Create a feature branch
-3. Add or update examples and tests
-4. Open a pull request with a clear description
-
-Keep changes focused and backwards-compatible with the example scripts.
-
-## License
-
-This repository is provided for educational purposes. If you would like a specific license applied, add a `LICENSE` file and update this section.
-
 ## Contact
 
 For questions or suggestions, open an issue or contact the repository owner.
